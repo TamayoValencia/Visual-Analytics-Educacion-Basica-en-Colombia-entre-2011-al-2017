@@ -1,4 +1,4 @@
-﻿Visual Analytics Educacion Colombia 2011-2017
+Visual Analytics Educacion Colombia 2011-2017
 
 
 OBJETIVO
@@ -9,3 +9,12 @@ TECNOLOGÍAS UTILIZADAS
 
 Para la respectiva Visualización, se utilizó el software Tableau y como repositorio del proyecto se usó la plataforma GitHub
 
+AUTORES
+
+Julián Andrés Tamayo Valencia
+
+LICENCIA 
+
+Licencia bajo los términos MIT
+
+![Imagen Educacion](EducacionBasica.jpg)
