@@ -16,4 +16,9 @@ Julián Andrés Tamayo Valencia
 
 Licencia bajo los términos de <a href="LICENSE.md">MIT</a>
 
+<h3>ENLACE PROYECTO</h3>
+
+https://tamayovalencia.github.io/Visual-Analytics-Educacion-Basica-en-Colombia-entre-2011-al-2017/
+
+<h3>IMAGEN DEL PROYECTO </h3>
 ![Imagen Educacion](EducacionBasica.jpg)
