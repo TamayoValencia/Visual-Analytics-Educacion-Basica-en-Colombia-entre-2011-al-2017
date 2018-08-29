@@ -1,11 +1,11 @@
-Visual Analytics Educacion Colombia 2011-2017
+ÔªøVisual Analytics Educacion Colombia 2011-2017
 
 
 OBJETIVO
 
-Analizar el comportamiento de la informaciÛn de los niveles preescolar, b·sica, media y superior relacionada con indicadores de aprobaciÛn, cobertura, deserciÛn, reprobados y repitencia por Departamentos en Colombia.
+Analizar el comportamiento de la informaci√≥n de los niveles preescolar, b√°sica, media y superior relacionada con indicadores de aprobaci√≥n, cobertura, deserci√≥n, reprobados y repitencia por Departamentos en Colombia.
 
-TECNOLOGÕAS UTILIZADAS
+TECNOLOG√çAS UTILIZADAS
 
-Para la respectiva VisualizaciÛn, se utilizÛ el software Tableau y como repositorio del proyecto se usÛ la plataforma GitHub
+Para la respectiva Visualizaci√≥n, se utiliz√≥ el software Tableau y como repositorio del proyecto se us√≥ la plataforma GitHub
 
