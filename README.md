@@ -15,6 +15,6 @@ Julián Andrés Tamayo Valencia
 
 LICENCIA 
 
-Licencia bajo los términos [LICENSE](LICENSE) (MIT)
+Licencia bajo los términos de <a href="LICENCE">MIT</a>
 
 ![Imagen Educacion](EducacionBasica.jpg)
